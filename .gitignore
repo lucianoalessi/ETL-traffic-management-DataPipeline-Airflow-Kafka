@@ -1,0 +1,10 @@
+# Entornos virtuales de Python
+venv/
+# Datos de conexión
+pipeline.conf
+#data
+extracted/
+output/
+staging/
+# Otros
+__pycache__/
